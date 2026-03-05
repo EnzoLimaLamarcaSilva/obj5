@@ -1,3 +1,5 @@
+//npm install --save readline-sync
+
 const readline = require("readline-sync")
 
 const Soma = require("./models/Soma")
